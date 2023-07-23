@@ -1,0 +1,13 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+.add{
+  background-color: white;
+  color: black;
+  font-weight: 500;
+  border-color: black;
+  border-radius: 100px;
+  border-width: 3px;
+  width: 120px;
+}

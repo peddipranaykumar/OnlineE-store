@@ -1,0 +1,22 @@
+.status{
+  background: #91ffd3;
+  color: #507b6a;
+  border-radius: 6px;
+  padding: 9px;
+}
+.obut {
+  transition: all .5s ease;
+  color: black;
+  margin: 2px;
+  border: solid 2px black;
+  border-radius: 5px;
+  padding: 0.75rem 2rem;
+}
+.obut:hover {
+  color: black;
+  background-color: gray; 
+}
+.order{
+  border: 2px solid rgb(122, 122, 122);
+  border-radius: 10px;
+}

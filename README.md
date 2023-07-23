@@ -1,4 +1,4 @@
-Online E stroe:
+# Online E store:
 A web application built using MongoDB, React, NodeJS and JavaScript that provides an interface between customers and vendors for purchasing electronic devices. Sellers can add, delete, and manage products.
 
 CUSTOMER SIDE:

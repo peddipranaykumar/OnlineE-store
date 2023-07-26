@@ -36,3 +36,18 @@ Admin page:
 
 ![image](https://github.com/peddipranaykumar/OnlineE-store/assets/100850506/64ccb887-177f-4d55-9248-74c2bb0ec16f)
 
+To run this project, follow these steps:
+
+1. Open two terminals.
+
+2. In the first terminal, navigate to the folder that includes these files.
+
+3. In the first terminal, type the following command and press Enter: "nodemon server".
+
+4. This will start the server using nodemon, which automatically restarts the server whenever you make changes to the files.
+
+5. In the second terminal, make sure you are still in the same folder as before.
+
+6. In the second terminal, type the following command and press Enter: "npm run build".
+
+7. This will initiate the build process for your project.
